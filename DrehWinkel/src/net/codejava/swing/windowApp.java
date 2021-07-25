@@ -59,7 +59,7 @@ public class windowApp extends JFrame {
 			public void run() {
 				try {
 					windowApp frame = new windowApp();
-					frame.setTitle("DrehMatrix Applikation | Author: Jochem Punt MIB , SoSe2021");
+					frame.setTitle("Rotation Matrix Application | Author: Jochem Punt MIB , SoSe2021");
 					frame.setDefaultCloseOperation(EXIT_ON_CLOSE);
 					frame.setVisible(true);
 				} catch (Exception e) {
